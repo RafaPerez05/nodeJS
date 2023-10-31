@@ -1,0 +1,13 @@
+{
+  "faculdade": "Fatec de Presidente Prudente",
+  "Turma": {
+    "nome": "Turma de ADS",
+    "alunos": [
+      {
+        "nome": "Rafael Perez",
+        "idade": 18,
+        "cidade": "Álvares Machado"
+      }
+    ]
+  }
+}
